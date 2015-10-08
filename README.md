@@ -1,4 +1,4 @@
-# Multisite-WordPress
+# Multisite WordPress framework
 
 A framework for deploying WordPress Multisite projects:
 
