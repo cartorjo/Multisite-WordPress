@@ -1,3 +1,60 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = https://github.com/WordPress/WordPress.git
+[submodule "content/plugins/babble"]
+	path = content/plugins/babble
+	url = https://github.com/cartorjo/babble.git
+[submodule "content/plugins/batcache"]
+	path = content/plugins/batcache
+	url = https://github.com/Automattic/batcache.git
+[submodule "content/plugins/eventbrite-api"]
+	path = content/plugins/eventbrite-api
+	url = https://github.com/Automattic/eventbrite-api.git
+[submodule "content/plugins/eventbrite-api-cache-one-hour"]
+	path = content/plugins/eventbrite-api-cache-one-hour
+	url = https://github.com/Automattic/eventbrite-api-cache-one-hour.git
+[submodule "content/plugins/facebook"]
+	path = content/plugins/facebook
+	url = https://github.com/facebookarchive/wordpress.git
+[submodule "content/plugins/jetpack"]
+	path = content/plugins/jetpack
+	url = https://github.com/Automattic/jetpack.git
+[submodule "content/plugins/lazy-load"]
+	path = content/plugins/lazy-load
+	url = https://github.com/Automattic/lazy-load.git
+[submodule "content/plugins/liveblog"]
+	path = content/plugins/liveblog
+	url = https://github.com/Automattic/liveblog.git
+[submodule "content/plugins/Map-Widget"]
+	path = content/plugins/Map-Widget
+	url = https://github.com/Automattic/Map-Widget.git
+[submodule "content/plugins/syndication"]
+	path = content/plugins/syndication
+	url = https://github.com/Automattic/syndication.git
+[submodule "content/plugins/twitter"]
+	path = content/plugins/twitter
+	url = https://github.com/twitter/wordpress.git
+[submodule "content/plugins/wordpress"]
+	path = content/plugins/wordpress
+	url = https://github.com/facebookarchive/wordpress.git
+[submodule "content/plugins/wordpress-seo"]
+	path = content/plugins/wordpress-seo
+	url = https://github.com/Yoast/wordpress-seo.git
+[submodule "content/plugins/wp_enqueue_media_override"]
+	path = content/plugins/wp_enqueue_media_override
+	url = https://github.com/alleyinteractive/wp_enqueue_media_override.git
+[submodule "content/plugins/WP-API"]
+	path = content/plugins/WP-API
+	url = https://github.com/WP-API/WP-API.git
+[submodule "content/plugins/wp-job-manager"]
+	path = content/plugins/wp-job-manager
+	url = https://github.com/Automattic/WP-Job-Manager.git
+[submodule "content/plugins/wp-super-cache"]
+	path = content/plugins/wp-super-cache
+	url = https://github.com/Automattic/wp-super-cache
+[submodule "content/plugins/wpthumb"]
+	path = content/plugins/wpthumb
+	url = https://github.com/humanmade/WPThumb.git
+[submodule "content/themes/_s"]
+	path = content/themes/_s
+	url = https://github.com/Automattic/_s.git
