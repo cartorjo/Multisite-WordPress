@@ -34,9 +34,6 @@
 [submodule "content/plugins/twitter"]
 	path = content/plugins/twitter
 	url = https://github.com/twitter/wordpress.git
-[submodule "content/plugins/wordpress"]
-	path = content/plugins/wordpress
-	url = https://github.com/facebookarchive/wordpress.git
 [submodule "content/plugins/wordpress-seo"]
 	path = content/plugins/wordpress-seo
 	url = https://github.com/Yoast/wordpress-seo.git
