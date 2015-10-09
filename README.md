@@ -6,10 +6,11 @@ A framework for deploying WordPress Multisite projects:
 * Plugins:
 * Themes: _s
 
-### Helpful Extensions
+### You might want to check out these other projects
 
 * [HHVM](https://github.com/facebook/hhvm.git) is an open-source virtual machine designed for executing programs written in Hack and PHP. Should be used together with a FastCGI-based webserver like NGINX or Apache.
+* [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV)
 
 ### Help?
 
-* Don't hesitate to contact me if you run into trouble or have any tips that I need to know.
+* For full documentation, see [http://codex.wordpress.org/Developer_Documentation](http://codex.wordpress.org/Developer_Documentation).
