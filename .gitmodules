@@ -55,3 +55,18 @@
 [submodule "content/themes/_s"]
 	path = content/themes/_s
 	url = https://github.com/Automattic/_s.git
+[submodule "content/plugins/sendgrid"]
+	path = content/plugins/sendgrid
+	url = https://github.com/sendgrid/wordpress.git
+[submodule "content/plugins/storify"]
+	path = content/plugins/storify
+	url = https://github.com/storify/wordpress.git
+[submodule "content/plugins/wordpress-comment-blacklist"]
+	path = content/plugins/wordpress-comment-blacklist
+	url = https://github.com/splorp/wordpress-comment-blacklist.git
+[submodule "content/plugins/disqus-wordpress"]
+	path = content/plugins/disqus-wordpress
+	url = https://github.com/disqus/disqus-wordpress.git
+[submodule "content/plugins/woocommerce"]
+	path = content/plugins/woocommerce
+	url = https://github.com/woothemes/woocommerce.git
