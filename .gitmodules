@@ -67,3 +67,6 @@
 [submodule "content/plugins/woocommerce"]
 	path = content/plugins/woocommerce
 	url = https://github.com/woothemes/woocommerce.git
+[submodule "wordpress"]
+	path = wordpress
+	url = git://github.com/WordPress/WordPress.git
