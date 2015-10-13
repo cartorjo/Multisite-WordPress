@@ -45,7 +45,6 @@ A framework for deploying WordPress Multisite projects:
   * Yoast SEO
 * Themes: 
   * _s
-* WP-CLI
 
 ## Update all submodules
 
