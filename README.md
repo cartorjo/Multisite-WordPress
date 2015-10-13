@@ -9,7 +9,7 @@ A framework for deploying WordPress Multisite projects:
 * WordPress Unit-Tests
 * Custom WordPress modifications
 * Plugins:
-* Advanced Custom Fields
+  * Advanced Custom Fields
   * Akismet
   * Babble
   * Batcache
@@ -42,7 +42,8 @@ A framework for deploying WordPress Multisite projects:
   * WPThumb
   * wp_enqueue_media Override
   * Yoast SEO
-* Themes: _s
+* Themes: 
+  * _s
 * WP-CLI
 
 ## Update all submodules
