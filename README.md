@@ -14,7 +14,7 @@ A framework for deploying WordPress Multisite projects:
 
 ## Update all submodules
 
-To ensure all submodules are up to date, run this command the Terminal:
+To ensure all submodules are up to date, run the command below via the Terminal:
 
 ```html
 git submodule update --init --recursive
