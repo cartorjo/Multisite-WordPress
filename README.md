@@ -17,7 +17,7 @@ A framework for deploying WordPress Multisite projects:
 To ensure your submodules are always up to date, run this via the command line:
 
 ```html
-<code>git submodule update --init --recursive</code>
+git submodule update --init --recursive
 ```
 
 ## Acknowledgements
