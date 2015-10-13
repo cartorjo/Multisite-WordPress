@@ -9,6 +9,39 @@ A framework for deploying WordPress Multisite projects:
 * WordPress Unit-Tests
 * Custom WordPress modifications
 * Plugins:
+* Advanced Custom Fields
+  * Akismet
+  * Babble
+  * Batcache
+  * Disqus
+  * Eventbrite API
+  * EWWW Image Optimizer
+  * Facebook
+  * Geolocation
+  * Google AdSense
+  * Gravatar Widget
+  * Jetpack
+  * Lazy Load
+  * Liveblog
+  * MailChimp for WordPress
+  * Map Widget
+  * Really Simple CAPTCHA
+  * Recent Comments
+  * SendGrid
+  * Storify
+  * Syndication
+  * Twitter plugin for WordPress
+  * VaultPress
+  * W3 Total Cache
+  * WooCommerce
+  * WordPress Importer
+  * WordPress MU Domain Mapping
+  * WP Job Manager
+  * WP REST API
+  * WP Super Cache
+  * WPThumb
+  * wp_enqueue_media Override
+  * Yoast SEO
 * Themes: _s
 * WP-CLI
 
