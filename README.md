@@ -20,6 +20,7 @@ A framework for deploying WordPress Multisite projects:
   * Geolocation
   * Google AdSense
   * Gravatar Widget
+  * Gravity Forms
   * Jetpack
   * Lazy Load
   * Liveblog
