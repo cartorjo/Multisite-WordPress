@@ -14,6 +14,14 @@ A framework for deploying WordPress Multisite projects:
 
 ## Acknowledgements
 
+To ensure your submodules are always up to date, run this via the command line:
+
+```html
+<code>git submodule update --init --recursive</code>
+```
+
+## Acknowledgements
+
 Thanks to the following projects:
 
 * [Varying Vagrant Vagrants](https://github.com/10up/varying-vagrant-vagrants)
