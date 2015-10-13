@@ -12,9 +12,9 @@ A framework for deploying WordPress Multisite projects:
 * Themes: _s
 * WP-CLI
 
-## Acknowledgements
+## Update all submodules
 
-To ensure your submodules are always up to date, run this via the command line:
+To ensure all submodules are up to date, run this command the Terminal:
 
 ```html
 git submodule update --init --recursive
