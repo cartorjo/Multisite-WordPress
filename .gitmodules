@@ -4,6 +4,9 @@
 [submodule "content/plugins/batcache"]
 	path = content/plugins/batcache
 	url = https://github.com/Automattic/batcache.git
+[submodule "content/plugins/disqus-wordpress"]
+	path = content/plugins/disqus-wordpress
+	url = https://github.com/disqus/disqus-wordpress.git
 [submodule "content/plugins/eventbrite-api"]
 	path = content/plugins/eventbrite-api
 	url = https://github.com/Automattic/eventbrite-api.git
@@ -13,6 +16,9 @@
 [submodule "content/plugins/facebook"]
 	path = content/plugins/facebook
 	url = https://github.com/facebookarchive/wordpress.git
+[submodule "content/plugins/gravityforms"]
+	path = content/plugins/gravityforms
+	url = https://github.com/gravityforms/gravityforms.git
 [submodule "content/plugins/jetpack"]
 	path = content/plugins/jetpack
 	url = https://github.com/Automattic/jetpack.git
@@ -25,18 +31,27 @@
 [submodule "content/plugins/Map-Widget"]
 	path = content/plugins/Map-Widget
 	url = https://github.com/Automattic/Map-Widget.git
+[submodule "content/plugins/sendgrid"]
+	path = content/plugins/sendgrid
+	url = https://github.com/sendgrid/wordpress.git
+[submodule "content/plugins/storify"]
+	path = content/plugins/storify
+	url = https://github.com/storify/wordpress.git
 [submodule "content/plugins/syndication"]
 	path = content/plugins/syndication
 	url = https://github.com/Automattic/syndication.git
 [submodule "content/plugins/twitter"]
 	path = content/plugins/twitter
 	url = https://github.com/twitter/wordpress.git
+[submodule "content/plugins/woocommerce"]
+	path = content/plugins/woocommerce
+	url = https://github.com/woothemes/woocommerce.git
+[submodule "content/plugins/wordpress-comment-blacklist"]
+	path = content/plugins/wordpress-comment-blacklist
+	url = https://github.com/splorp/wordpress-comment-blacklist.git
 [submodule "content/plugins/wordpress-seo"]
 	path = content/plugins/wordpress-seo
 	url = https://github.com/Yoast/wordpress-seo.git
-[submodule "content/plugins/wp_enqueue_media_override"]
-	path = content/plugins/wp_enqueue_media_override
-	url = https://github.com/alleyinteractive/wp_enqueue_media_override.git
 [submodule "content/plugins/WP-API"]
 	path = content/plugins/WP-API
 	url = https://github.com/WP-API/WP-API.git
@@ -49,24 +64,9 @@
 [submodule "content/plugins/wpthumb"]
 	path = content/plugins/wpthumb
 	url = https://github.com/humanmade/WPThumb.git
+[submodule "content/plugins/wp_enqueue_media_override"]
+	path = content/plugins/wp_enqueue_media_override
+	url = https://github.com/alleyinteractive/wp_enqueue_media_override.git
 [submodule "content/themes/_s"]
 	path = content/themes/_s
 	url = https://github.com/Automattic/_s.git
-[submodule "content/plugins/sendgrid"]
-	path = content/plugins/sendgrid
-	url = https://github.com/sendgrid/wordpress.git
-[submodule "content/plugins/storify"]
-	path = content/plugins/storify
-	url = https://github.com/storify/wordpress.git
-[submodule "content/plugins/wordpress-comment-blacklist"]
-	path = content/plugins/wordpress-comment-blacklist
-	url = https://github.com/splorp/wordpress-comment-blacklist.git
-[submodule "content/plugins/disqus-wordpress"]
-	path = content/plugins/disqus-wordpress
-	url = https://github.com/disqus/disqus-wordpress.git
-[submodule "content/plugins/woocommerce"]
-	path = content/plugins/woocommerce
-	url = https://github.com/woothemes/woocommerce.git
-[submodule "content/plugins/gravityforms"]
-	path = content/plugins/gravityforms
-	url = https://github.com/gravityforms/gravityforms.git
